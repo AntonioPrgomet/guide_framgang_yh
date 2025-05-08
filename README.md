@@ -5,7 +5,14 @@ Denna sida innehåller material för boken "Din guide till framgång på yrkesh�
 * Ett "smakprov" av boken kan ses i dokumentet "din_guide_till_framgång_på_yh_smakprov". De som vill läsa hela boken kan låna den via ett bibliotek eller beställa den via t.ex. Adlibris eller Bokus:
 xxx, yyy .
 * Eventuella videor:
-* Eventuella appendix, t.ex. studentporträtt
+* Eventuella appendix, t.ex. studentporträtt, diverse bidrag, ...
+
+Några potentiellt användbara källor: 
+
+* För att se vilka utbildningar som finns inom yrkeshögskolan: https://www.yrkeshogskolan.se/
+* Här kan du hitta mallar för CV och personligt brev: https://arbetsformedlingen.se/for-arbetssokande/cv-ansokan-och-intervju
+* Hemsida till Myndigheten för yrkeshögskolan: https://www.myh.se/
+* Statistiska centralbyråns databas som bland annat innehåller data kopplat till arbetsmarknaden: https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/
 
 Hittar ni fel i boken tar vi tacksamt emot dessa och lägger upp i dokumentet "Errata". Kontakta Antonio Prgomet via mejl på antonio.ek@hotmail.se .
 
