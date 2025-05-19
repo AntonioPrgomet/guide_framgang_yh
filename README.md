@@ -7,6 +7,9 @@ Ett "smakprov" av boken kan ses i dokumentet "din_guide_till_framgång_på_yh_sm
 * Bokus: https://www.bokus.com/bok/9789181114140/din-guide-till-framgang-pa-yrkeshogskolan/
 * Adlibris: https://www.adlibris.com/se/bok/din-guide-till-framgang-pa-yrkeshogskolan-9789181114140
 
+Boken har en LinkedIn grupp där samtalet om yrkeshögskolan kan fortsätta, välkommen in! 
+* https://www.linkedin.com/groups/10073503/
+
 Några potentiellt användbara källor: 
 
 * För att se vilka utbildningar som finns inom yrkeshögskolan: https://www.yrkeshogskolan.se/
