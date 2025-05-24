@@ -3,8 +3,8 @@
 Denna sida innehåller material för boken "Din guide till framgång på yrkeshögskolan" av Antonio Prgomet och Henrik Ahlgren. ISBN: 9789181114140 .
 
 Ett "smakprov" av boken kan ses i dokumentet "din_guide_till_framgång_på_yh_smakprov". De som vill läsa hela boken kan låna den via ett bibliotek eller beställa den:
-* https://pedagogicus.se/ *(här är det kortast leveranstid och billigast pris)*
 * Bokus: https://www.bokus.com/bok/9789181114140/din-guide-till-framgang-pa-yrkeshogskolan/
+* Pedagogicus: https://pedagogicus.se/ *(här är det kortast leveranstid)*
 * Adlibris: https://www.adlibris.com/se/bok/din-guide-till-framgang-pa-yrkeshogskolan-9789181114140
 
 Boken har en LinkedIn grupp där samtalet om yrkeshögskolan kan fortsätta, välkommen in! 
